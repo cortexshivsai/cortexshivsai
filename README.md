@@ -129,9 +129,9 @@ My personal developer portfolio.
 
 ## 🤝 Connect with Me
 
-📧 Email: your-email@example.com
+📧 Email: shivsai1396@gmail.com
 
-💼 LinkedIn: Coming Soon
+💼 LinkedIn: https://www.linkedin.com/in/shivsaijagadale
 
 🌐 Portfolio: Coming Soon
 
