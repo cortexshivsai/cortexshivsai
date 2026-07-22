@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring AI Engineer | AIML Student | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Future+RAG+Developer;Building+AI+Projects+Every+Week" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Future+RAG+Developer;Building+AI+Projects" />
 </p>
 
 ---
@@ -31,19 +31,19 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,leetcode,hackerrank" />
 </p>
 
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas" />
 </p>
 
 ---
