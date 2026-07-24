@@ -88,10 +88,9 @@ My personal developer portfolio.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivsai1396&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivsai1396&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://streak-stats.demolab.com?user=shivsai1396&theme=tokyonight" />
 </p>
-
 ---
 
 ## 💻 Most Used Languages
