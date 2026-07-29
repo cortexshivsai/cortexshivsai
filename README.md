@@ -87,7 +87,7 @@ My personal developer portfolio.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shivsai1396&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivsai1396&theme=tokyonight">
 </p>
 
  
