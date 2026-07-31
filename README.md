@@ -96,6 +96,14 @@ My personal developer portfolio.
 </p>
 
  ---
+ ## 💻 Most Used Languages
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivsai1396&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 
 ## 🏆 2026 Goals
 
