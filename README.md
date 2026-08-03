@@ -1,42 +1,39 @@
 <h1 align="center">Hi 👋, I'm Shivsai Jagadale</h1>
 
 <h3 align="center">
-🚀 AI Engineer in Progress • AIML Student • Python Developer
+🚀 Aspiring AI Engineer | AIML Student | Python Developer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Future+RAG+Developer;Building+Production+AI+Applications" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Future+RAG+Developer;Building+Production+AI+Projects" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shivsai1396&label=Profile+Views&color=0e75b6&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=shivsai1396&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech AIML Student
+🎓 B.Tech Student (Artificial Intelligence & Machine Learning)
 
-💻 Passionate about Artificial Intelligence, Machine Learning and Python.
+💡 Passionate about AI, Machine Learning, LLMs and building real-world applications.
 
-🚀 Currently building projects that solve real-world problems.
+🌱 Currently learning
+
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- Git & GitHub
 
 🎯 **Career Goal**
 
-• AI Engineer
-
-• Production-Level AI Applications
-
-• RAG Systems
-
-• LLM Development
-
-• AI Internship
+- 🤖 Become an AI Engineer
+- 🚀 Build Production-Level AI Applications
+- 🧠 Master RAG & LLM Development
+- 💼 Land an AI Internship
 
 ---
 
@@ -45,151 +42,45 @@
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql" />
 </p>
 
-### AI & Data Science
+### AI / Data Science
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas" />
 </p>
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🧠 AI Roadmap
+# 🧠 AI Engineer Roadmap
 
 | Skill | Progress |
-|------|:---------:|
-| 🐍 Python | ██████████ |
-| 📚 DSA | ██████░░░░ |
-| 🤖 Machine Learning | ████░░░░░ |
-| 🧠 Deep Learning | ██░░░░░░░ |
-| 🔍 LangChain | ░░░░░░░░░ |
-| 📚 RAG | ░░░░░░░░░ |
-| 🤖 AI Agents | ░░░░░░░░░ |
+|--------|:--------:|
+| 🐍 Python | ██████████ 100% |
+| 📚 DSA | ██████░░░░ 60% |
+| 🤖 Machine Learning | ███░░░░░░░ 30% |
+| 🧠 Deep Learning | ██░░░░░░░░ 20% |
+| 🔍 LangChain | ░░░░░░░░░░ 0% |
+| 📚 RAG | ░░░░░░░░░░ 0% |
+| 🤖 AI Agents | ░░░░░░░░░░ 0% |
 
 ---
 
-# ⭐ Featured Projects
+# 📂 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🤖 Jarvis AI Assistant</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80">
-
-</p>
-
-Desktop Voice Assistant built using Python with Speech Recognition, Text-to-Speech and AI integration.
-
-<p align="center">
-
-<a href="https://github.com/shivsai1396">
-<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🏠 StudentNest</h3>
-
-<p align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/619/619153.png" width="80">
-
-</p>
-
-Student Accommodation Platform helping students find nearby rooms and hostels.
-
-<p align="center">
-
-<a href="https://github.com/shivsai1396">
-
-<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🌐 Portfolio Website</h3>
-
-<p align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80">
-
-</p>
-
-Responsive AI Engineer Portfolio with GitHub API integration.
-
-<p align="center">
-
-<a href="https://github.com/shivsai1396">
-
-<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📘 Python Journey</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80">
-
-</p>
-
-Complete Python roadmap repository with notes, exercises and mini projects.
-
-<p align="center">
-
-<a href="https://github.com/shivsai1396">
-
-<img src="https://img.shields.io/badge/View_Project-2962FF?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🤖 Jarvis AI Assistant | AI-powered desktop voice assistant built using Python | ✅ Completed |
+| 🏠 StudentNest | Student Accommodation System for finding nearby rooms & hostels | 🚧 In Progress |
+| 🌐 Portfolio Website | Personal AI Engineer Portfolio Website | 🚧 In Progress |
+| 📘 Python Journey | Complete Python roadmap with notes & mini projects | ✅ Completed |
 
 ---
 
@@ -205,94 +96,80 @@ Complete Python roadmap repository with notes, exercises and mini projects.
 
 ---
 
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivsai1396&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 🎯 Current Focus
 
-✅ Building AI Projects
-
-✅ Learning Machine Learning
-
-✅ Solving DSA
-
-✅ Improving Open Source Skills
-
-✅ Preparing for AI Internship
+- 🚀 Building AI Projects
+- 📚 Learning Machine Learning
+- 💻 Solving DSA Problems
+- 🤖 Preparing for RAG & LLM Development
+- 🎓 Preparing for AI Internship
 
 ---
 
 # 🏆 2026 Goals
 
 - ✅ Master Python
-- ✅ Learn DSA
-- 🔄 Machine Learning
-- ⬜ Deep Learning
-- ⬜ LangChain
-- ⬜ RAG
-- ⬜ AI Agents
+- ✅ Learn Git & GitHub
+- 🔄 Learn DSA
+- ⬜ Learn Machine Learning
+- ⬜ Learn Deep Learning
+- ⬜ Master LangChain
+- ⬜ Build Production RAG Systems
 - ⬜ Build 15+ AI Projects
-- ⬜ Open Source Contributions
-- ⬜ AI Internship
+- ⬜ Contribute to Open Source
+- ⬜ Land an AI Internship
 
 ---
 
 # 🌐 Coding Profiles
 
-<p>
+<p align="left">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-
+<a href="https://leetcode.com/shiv1396">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
-
+<a href="https://www.hackerrank.com/@shivsai1396">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📬 Connect With Me
+# 🤝 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="mailto:shivsai1396@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shivsaijagadale">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_LINK">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💭 Favorite Quote
 
-> **"Code. Learn. Build. Repeat."**
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</h3>
+> **"The best way to predict the future is to invent it."** — Alan Kay
 
 ---
 
