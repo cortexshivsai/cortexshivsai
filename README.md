@@ -69,8 +69,6 @@
 | Python | IBMCE| ✅ |
 | AI-Data Engineering Analyst | NASSCOM | ✅ |
 | AI-Machine Learning Engineer  | Reliance Foundation Skilling Academy SIDH | ✅ |
-| AI Engineer | Microsoft | ⬜ |
-
 ---
 
 # 🧠 AI Engineer Roadmap
