@@ -64,11 +64,11 @@
 
 | Certificate | Platform | Status |
 |-------------|----------|:------:|
-| Python Programming | Cisco Networking Academy | ✅ |
-| Python for Everybody | Coursera | ⬜ |
-| Machine Learning Specialization | Coursera | ⬜ |
-| TensorFlow Developer | Google | ⬜ |
-| AWS Cloud Practitioner | AWS | ⬜ |
+| Javascript Certification | Certiport | ✅ |
+| Software Foundation Course C++ | IBMCE | ✅ |
+| Python | IBMCE| ✅ |
+| AI-Data Engineering Analyst | NASSCOM | ✅ |
+| AI-Machine Learning Engineer  | Reliance Foundation Skilling Academy SIDH | ✅ |
 | AI Engineer | Microsoft | ⬜ |
 
 ---
