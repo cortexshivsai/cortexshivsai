@@ -48,7 +48,9 @@
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 </p>
 
 ### Tools
