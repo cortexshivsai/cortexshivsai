@@ -45,7 +45,7 @@
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql" />
 </p>
 
-### AI / Data Science
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas" />
