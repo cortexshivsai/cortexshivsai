@@ -60,6 +60,18 @@
 </p>
 
 ---
+# 📜 Certifications
+
+| Certificate | Platform | Status |
+|-------------|----------|:------:|
+| Python Programming | Cisco Networking Academy | ✅ |
+| Python for Everybody | Coursera | ⬜ |
+| Machine Learning Specialization | Coursera | ⬜ |
+| TensorFlow Developer | Google | ⬜ |
+| AWS Cloud Practitioner | AWS | ⬜ |
+| AI Engineer | Microsoft | ⬜ |
+
+---
 
 # 🧠 AI Engineer Roadmap
 
