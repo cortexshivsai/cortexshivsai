@@ -89,7 +89,7 @@
 
 <p align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=shivsai1396&theme=tokyonight&v=1" />
+<img  src="https://streak-stats.demolab.com?user=shivsai1396&theme=tokyonight" />
 </p>
 
 ---
