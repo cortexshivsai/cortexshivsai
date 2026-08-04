@@ -93,6 +93,8 @@
 | 🌐 Portfolio Website | HTML • CSS • JavaScript | 🚧 |
 | 🎓 Attendance System | Python • OpenCV • Face Recognition | 🚧 |
 | 📘 Python Journey | Python | ✅ |
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivsai1396&repo=Python-Journey&theme=tokyonight"/>
+
 ---
 
 # 📊 GitHub Statistics
