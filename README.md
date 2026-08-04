@@ -78,8 +78,9 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | 🤖 Jarvis AI Assistant | AI-powered desktop voice assistant built using Python | ✅ Completed |
-| 🏠 StudentNest | Student Accommodation System for finding nearby rooms & hostels | 🚧 In Progress |
+| 🏠 StudentNest | Student Accommodation System for finding nearby rooms & hostels | 🧑‍🤝‍🧑Team Project Using Replit |
 | 🌐 Portfolio Website | Personal AI Engineer Portfolio Website | 🚧 In Progress |
+| 🧑‍🎓 Attendance System | Automatic Student Attendance System | 🚧 In Progress |
 | 📘 Python Journey | Complete Python roadmap with notes & mini projects | ✅ Completed |
 
 ---
