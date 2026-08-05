@@ -148,6 +148,10 @@
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
+<a href="https://www.codechef.com/users/shivsai1396">
+<img src="[![CodeChef](https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff)](#)"/>
+</a>
+
 </p>
 
 ---
