@@ -149,7 +149,7 @@
 </a>
 
 <a href="https://www.codechef.com/users/shivsai1396">
-<img src="[![CodeChef](https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff)](#)"/>
+<img src="https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff"/>
 </a>
 
 </p>
