@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivsai1396&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=cortexshivsai&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -99,7 +99,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=shivsai1396&theme=tokyonight&v=2" />
+<img src="https://streak-stats.demolab.com?user=cortexshivsai&theme=tokyonight&v=2" />
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivsai1396&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cortexshivsai&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
