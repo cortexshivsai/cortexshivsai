@@ -1,144 +1,206 @@
-<h1 align="center">Hi 👋, I'm Shivsai Jagadale</h1>
+<h1 align="center">🧠 CortexShivsai</h1>
 
 <h3 align="center">
-🚀 Aspiring AI Engineer | AIML Student | Python Developer
+AI Engineer in the Making • AIML Student • Python Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Future+RAG+Developer;Building+Production+AI+Projects" />
+  <a href="https://github.com/cortexshivsai">
+    <img src="https://img.shields.io/badge/GitHub-CortexShivsai-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cortexshivsai&label=Profile%20Views&color=00C4FF&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cortexshivsai&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Python+%7C+Machine+Learning+%7C+GenAI;Exploring+LLMs+%26+RAG;Turning+Ideas+into+AI+Applications;Future+AI+Engineer+%F0%9F%9A%80"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🧠 About Me
 
-🎓 B.Tech Student (Artificial Intelligence & Machine Learning)
+```text
+┌──────────────────────────────────────────────────────────┐
+│  👋 Hey, I'm Shivsai Jagadale                            │
+│                                                          │
+│  🎓 B.Tech — Artificial Intelligence & Machine Learning  │
+│  🐍 Python Developer                                     │
+│  🤖 Aspiring AI Engineer                                 │
+│  🔬 Interested in ML, Deep Learning & Generative AI      │
+│  📚 Currently exploring RAG, LLMs & AI Agents            │
+│  🚀 Building real-world AI projects                      │
+└──────────────────────────────────────────────────────────┘
+```
 
-💡 Passionate about AI, Machine Learning, LLMs and building real-world applications.
+I enjoy turning **ideas into intelligent applications** and continuously improving my skills through hands-on projects, problem solving and experimentation.
 
-🌱 Currently learning
-
-- Python
-- Data Structures & Algorithms
-- Machine Learning
-- Deep Learning
-- Git & GitHub
-
-🎯 **Career Goal**
-
-- 🤖 Become an AI Engineer
-- 🚀 Build Production-Level AI Applications
-- 🧠 Master RAG & LLM Development
-- 💼 Land an AI Internship
+My long-term goal is to build **production-ready AI systems** that solve meaningful real-world problems.
 
 ---
 
-# 🚀 Tech Stack
+## ⚡ What I'm Working On
 
-### Languages
+| 🧠 Area             | 🔥 Current Focus                             |
+| ------------------- | -------------------------------------------- |
+| 🐍 Python           | Advanced Python & problem solving            |
+| 📊 DSA              | Building strong problem-solving fundamentals |
+| 🤖 Machine Learning | Algorithms, preprocessing & model building   |
+| 🧠 Deep Learning    | Neural Networks & computer vision            |
+| ✨ Generative AI     | LLMs, embeddings & AI applications           |
+| 🔍 RAG              | Retrieval-Augmented Generation               |
+| 🤝 AI Agents        | Intelligent tool-using systems               |
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
 </p>
 
-### Tools
+### 🔧 Tools & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css" />
 </p>
 
 ---
-# 📜 Certifications
 
-| Certificate | Platform | Status |
-|-------------|----------|:------:|
-| Javascript Certification | Certiport | ✅ |
-| Software Foundation Course C++ | IBMCE | ✅ |
-| Python | IBMCE| ✅ |
-| AI-Data Engineering Analyst | NASSCOM | ✅ |
-| AI-Machine Learning Engineer  | Reliance Foundation Skilling Academy SIDH | ✅ |
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Shadow — AI Voice Assistant
+
+Python-based voice assistant capable of listening to commands, processing requests and interacting with applications.
+
+**Tech:** Python • SpeechRecognition • Gemini API
+
+</td>
+
+<td width="50%">
+
+### 🎓 FaceMark AI
+
+An automatic attendance system using computer vision and facial recognition.
+
+**Tech:** Python • OpenCV • Face Recognition
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏠 StudentNest
+
+A student accommodation platform designed to help students discover suitable accommodation.
+
+**Tech:** HTML • CSS • JavaScript • MySQL
+
+</td>
+
+<td width="50%">
+
+### 🐍 Python Journey
+
+A structured collection of Python practice problems covering fundamentals through advanced concepts.
+
+**Tech:** Python
+
+</td>
+</tr>
+</table>
+
 ---
 
-# 🧠 AI Engineer Roadmap
+## 📜 Certifications
 
-| Skill | Progress |
-|--------|:--------:|
-| 🐍 Python | ██████████ 100% |
-| 📚 DSA | ██████░░░░ 60% |
-| 🤖 Machine Learning | ███░░░░░░░ 30% |
-| 🧠 Deep Learning | ██░░░░░░░░ 20% |
-| 🔍 LangChain | ░░░░░░░░░░ 0% |
-| 📚 RAG | ░░░░░░░░░░ 0% |
-| 🤖 AI Agents | ░░░░░░░░░░ 0% |
+| Certification                       | Organization                                |
+| ----------------------------------- | ------------------------------------------- |
+| 🟢 JavaScript Certification         | Certiport                                   |
+| 🟢 Software Foundation Course — C++ | IBMCE                                       |
+| 🟢 Python Certification             | IBMCE                                       |
+| 🟢 AI-Data Engineering Analyst      | NASSCOM                                     |
+| 🟢 AI-Machine Learning Engineer     | Reliance Foundation Skilling Academy — SIDH |
 
 ---
 
-# 📂 Featured Projects
-| Project | Tech Stack | Status |
-|---------|------------|:------:|
-| 🤖 Jarvis AI Assistant | Python • SpeechRecognition • Gemini API | ✅ |
-| 🏠 StudentNest | HTML • CSS • JavaScript • MySQL | 🚧 |
-| 🌐 Portfolio Website | HTML • CSS • JavaScript | 🚧 |
-| 🎓 Attendance System | Python • OpenCV • Face Recognition | 🚧 |
-| 📘 Python Journey | Python | ✅ |
+## 🧭 AI Engineer Roadmap
+
+```text
+Python              ████████████████████  100%
+DSA                 ████████████░░░░░░░░   60%
+Machine Learning    ██████░░░░░░░░░░░░░░   30%
+Deep Learning       ████░░░░░░░░░░░░░░░░   20%
+LangChain           ░░░░░░░░░░░░░░░░░░░░    0%
+RAG                 ░░░░░░░░░░░░░░░░░░░░    0%
+AI Agents           ░░░░░░░░░░░░░░░░░░░░    0%
+```
+
+> *Learning → Building → Breaking → Debugging → Improving → Repeating.*
+
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cortexshivsai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://streak-stats.demolab.com?user=cortexshivsai&theme=tokyonight&v=2" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortexshivsai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cortexshivsai&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=cortexshivsai&theme=tokyonight&hide_border=true"/>
 </p>
----
-
-# 🎯 Current Focus
-
-- 🚀 Building AI Projects
-- 📚 Learning Machine Learning
-- 💻 Solving DSA Problems
-- 🤖 Preparing for RAG & LLM Development
-- 🎓 Preparing for AI Internship
 
 ---
 
-# 🏆 2026 Goals
+## 📈 Contribution Graph
 
-- ✅ Master Python
-- ✅ Learn Git & GitHub
-- 🔄 Learn DSA
-- ⬜ Learn Machine Learning
-- ⬜ Learn Deep Learning
-- ⬜ Master LangChain
-- ⬜ Build Production RAG Systems
-- ⬜ Build 15+ AI Projects
-- ⬜ Contribute to Open Source
-- ⬜ Land an AI Internship
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cortexshivsai&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
 
-# 🌐 Coding Profiles
+## 🎯 2026 Mission
 
-<p align="left">
+```text
+[✓] Master Python
+[✓] Learn Git & GitHub
+[→] Strengthen DSA
+[→] Learn Machine Learning
+[ ] Master Deep Learning
+[ ] Learn LangChain
+[ ] Build RAG Applications
+[ ] Build AI Agents
+[ ] Build 15+ AI Projects
+[ ] Contribute to Open Source
+[ ] Land an AI Internship
+```
+
+### 🚀 The Bigger Goal
+
+**Become an AI Engineer capable of designing, building and deploying production-level AI applications.**
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
 
 <a href="https://leetcode.com/shiv1396">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -156,9 +218,9 @@
 
 ---
 
-# 🤝 Connect With Me
+## 🌐 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:shivsai1396@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -176,16 +238,20 @@
 
 ---
 
-# 💭 Favorite Quote
-
-> **"The best way to predict the future is to invent it."** — Alan Kay
-
----
-
 <h3 align="center">
 
-⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
+🧠 Build Intelligence.
+⚡ Solve Problems.
+🚀 Ship AI.
 
 </h3>
+
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i>
+  <br>
+  — Alan Kay
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider starring them!
+</p>
