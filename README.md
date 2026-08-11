@@ -48,22 +48,18 @@
 
 ---
 
-# ⚡ CortexShivsai — AI Lab
+## ⚡ CortexShivsai — AI Lab
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🧠_Artificial_Intelligence-020617?style=for-the-badge&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/🤖_Machine_Learning-020617?style=for-the-badge&logoColor=7C3AED"/>
-<img src="https://img.shields.io/badge/✨_Generative_AI-020617?style=for-the-badge&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/🔍_RAG-020617?style=for-the-badge&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/🤝_AI_Agents-020617?style=for-the-badge&logoColor=F59E0B"/>
+🧠 AI &nbsp; • &nbsp; 🤖 Machine Learning &nbsp; • &nbsp;
+✨ GenAI &nbsp; • &nbsp; 🔍 RAG &nbsp; • &nbsp; 🤝 AI Agents
 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=%3E+Initializing+Cortex...;%3E+Training+Mindset...;%3E+Building+AI...;%3E+System+Status%3A+ONLINE+%E2%9C%93"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+Initializing+Cortex...;%3E+Building+AI...;%3E+System+Status%3A+ONLINE+%E2%9C%93"/>
 </p>
-
 ---
 
 # 🚀 Tech Stack
