@@ -60,7 +60,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+Initializing+Cortex...;%3E+Building+AI...;%3E+System+Status%3A+ONLINE+%E2%9C%93"/>
 </p>
----
+
+ ---
 
 # 🚀 Tech Stack
 
