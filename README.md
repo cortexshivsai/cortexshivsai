@@ -48,7 +48,7 @@
 
 ---
 
-## ⚡ CortexShivsai — AI Lab
+## ⚡ CortexShivsai 
 
 <p align="center">
 
