@@ -97,6 +97,12 @@
 | AI-Data Engineering Analyst      |                   NASSCOM                   |    ✅   |
 | AI-Machine Learning Engineer     | Reliance Foundation Skilling Academy — SIDH |    ✅   |
 
+
+<p align="center">
+
+📂 <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
+<b>View All Certificates →</b>
+</a>
 ---
 
 # 🧠 AI Engineer Roadmap
