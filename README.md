@@ -103,16 +103,14 @@
     <img src="https://img.shields.io/badge/📜%20EXPLORE%20MY%20CERTIFICATIONS-7C3AED?style=for-the-badge&logoColor=white" />
   </a>
 </p>
+
+
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
     <img src="YOUR_ANIMATED_BUTTON.gif" alt="Explore My Certifications"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
-    <img src="https://img.shields.io/badge/📜%20EXPLORE%20MY%20CERTIFICATIONS-7C3AED?style=for-the-badge&logoColor=white&labelColor=6D28D9" />
-  </a>
-</p>
+
 
  ---
 
