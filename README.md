@@ -62,7 +62,7 @@
 </p>
 
  ---
-<p align="center>
+<p align="center">
 # 🚀 Tech Stack
 
 ### 💻 Languages
