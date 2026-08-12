@@ -100,7 +100,6 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
-    <img src="https://img.shields.io/badge/📜%20EXPLORE%20MY%20CERTIFICATIONS-7C3AED?style=for-the-badge&logoColor=white&labelColor=6D28D9" />
     <img width="250" height="50" alt="image" src="https://github.com/user-attachments/assets/b4db05e3-5ce0-4eb7-9397-8c25f43ad7ae" /> 
   </a>
 </p>
