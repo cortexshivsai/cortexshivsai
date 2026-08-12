@@ -62,7 +62,6 @@
 </p>
 
  ---
-<p align="center">
 # 🚀 Tech Stack
 
 ### 💻 Languages
@@ -84,8 +83,8 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 </p>
-</p>
----
+
+ ---
 
 # 📜 Certifications
 
