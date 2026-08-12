@@ -97,24 +97,24 @@
 | 💻 **Software Foundation Course — C++** | IBMCE | **24 Dec 2025** | ✅ |
 | 🌐 **JavaScript Certification** | Certiport | **07 Oct 2025** | ✅ |
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
-    <img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATIONS-06B6D4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
     <img src="https://img.shields.io/badge/📜%20EXPLORE%20MY%20CERTIFICATIONS-7C3AED?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
-    <img src="https://img.shields.io/badge/📜%20VIEW%20ALL%20CERTIFICATES-06B6D4?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="YOUR_ANIMATED_BUTTON.gif" alt="Explore My Certifications"/>
   </a>
 </p>
----
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
+    <img src="https://img.shields.io/badge/📜%20EXPLORE%20MY%20CERTIFICATIONS-7C3AED?style=for-the-badge&logoColor=white&labelColor=6D28D9" />
+  </a>
+</p>
+
+ ---
 
 # 🧠 AI Engineer Roadmap
 
