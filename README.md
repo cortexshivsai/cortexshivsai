@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
-    <img src="YOUR_ANIMATED_BUTTON.gif" alt="Explore My Certifications"/>
+    <img src="Gemini_Generated_Image.png" alt="Explore My Certifications"/>
   </a>
 </p>
 
