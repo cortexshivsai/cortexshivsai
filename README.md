@@ -89,20 +89,21 @@
 
 # 📜 Certifications
 
-| Certificate                      |                   Platform                  | Status |
-| :------------------------------- | :-----------------------------------------: | :----: |
-| JavaScript Certification         |                  Certiport                  |    ✅   |
-| Software Foundation Course — C++ |                    IBMCE                    |    ✅   |
-| Python Certification             |                    IBMCE                    |    ✅   |
-| AI-Data Engineering Analyst      |                   NASSCOM                   |    ✅   |
-| AI-Machine Learning Engineer     | Reliance Foundation Skilling Academy — SIDH |    ✅   |
-
+| Certificate | Platform | Completed | Status |
+|:---|:---:|:---:|:---:|
+| 🧠 **AI-Machine Learning Engineer** | Reliance Foundation Skilling Academy — SIDH | **20 Jul 2026** | ✅ |
+| 📊 **AI-Data Engineering Analyst** | NASSCOM | **12 Jul 2026** | ✅ |
+| 🐍 **Python Certification** | IBMCE | **01 Jul 2026** | ✅ |
+| 💻 **Software Foundation Course — C++** | IBMCE | **24 Dec 2025** | ✅ |
+| 🌐 **JavaScript Certification** | Certiport | **07 Oct 2025** | ✅ |
 
 <p align="center">
 
 📂 <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
-<b align="center">View All Certificates </b>
+<b>View All Certificates →</b>
 </a>
+
+</p>
 ---
 
 # 🧠 AI Engineer Roadmap
