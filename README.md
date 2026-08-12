@@ -101,7 +101,7 @@
 <p align="center">
 
 📂 <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
-<b align=""center>View All Certificates </b>
+<b align="center">View All Certificates </b>
 </a>
 ---
 
