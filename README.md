@@ -100,7 +100,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
-    <img src="Asset.png" alt="Explore My Certifications" width="250"/>
+    <img src="https://share.gemini.google/5CifiSPiQLDB" alt="Explore My Certifications" width="250"/>
   </a>
 </p>
 
