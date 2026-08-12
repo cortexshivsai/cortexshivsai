@@ -123,7 +123,7 @@
 
 # 📂 Featured Projects
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%">
