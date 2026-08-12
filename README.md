@@ -102,6 +102,12 @@
     <img src="https://img.shields.io/badge/📜%20VIEW%20CERTIFICATIONS-06B6D4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1tBZPeIZtrKvutPGGYhWuIpA9U5jf83Je">
+    <img src="https://img.shields.io/badge/📜%20EXPLORE%20MY%20CERTIFICATIONS-7C3AED?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 ---
 
 # 🧠 AI Engineer Roadmap
