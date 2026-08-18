@@ -33,7 +33,7 @@
 
 🚀 I enjoy learning by **building, experimenting and solving problems.**
 
-🌱 Currently exploring:
+# 🌱 Currently exploring:
 
 * 🐍 Python & Data Structures
 * 🤖 Machine Learning
