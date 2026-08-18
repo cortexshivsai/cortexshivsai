@@ -211,9 +211,7 @@ Python practice from basics to advanced concepts.
 
 • 🚀 **Building AI Projects**  • 🤖 **Learning Machine Learning**
     
-• 💻 **Solving DSA**   •🔍 **Exploring RAG & LLMs**
-
-• 🎓 **Preparing for AI Internship**
+• 💻 **Solving DSA**   • 🔍 **Exploring RAG & LLMs** • 🎓 **Preparing for AI Internship**
 
 </p>
 
