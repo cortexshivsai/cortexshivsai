@@ -145,7 +145,10 @@ Automatic attendance using facial recognition.
 
 **Python • OpenCV • Face Recognition**
 
-🔨 `In Development`
+🔨 `Completed`
+<a href="https://github.com/cortexshivsai/FaceMark-AI">
+View Project →
+</a>
 
 </td>
 
@@ -174,6 +177,9 @@ Python practice from basics to advanced concepts.
 **Python • Problem Solving**
 
 🚀 `Completed`
+<a href="https://github.com/cortexshivsai/Python_Journey">
+View Project →
+</a>
 
 </td>
 
