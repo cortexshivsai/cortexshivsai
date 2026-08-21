@@ -145,10 +145,13 @@ Automatic attendance using facial recognition.
 
 **Python • OpenCV • Face Recognition**
 
-🔨 `Completed`
+🚀 `Completed`
+
+<p>
 <a href="https://github.com/cortexshivsai/FaceMark-AI">
 View Project →
 </a>
+</p>
 
 </td>
 
@@ -177,9 +180,12 @@ Python practice from basics to advanced concepts.
 **Python • Problem Solving**
 
 🚀 `Completed`
+
+<p>
 <a href="https://github.com/cortexshivsai/Python_Journey">
 View Project →
 </a>
+</p>
 
 </td>
 
@@ -197,9 +203,11 @@ Customer churn prediction and business insight system using Python and Machine L
 
 🚀 `Completed`
 
+<p>
 <a href="https://github.com/cortexshivsai/Customer_churn_prediction_business_insight">
 View Project →
 </a>
+</p>
 
 </td>
 
@@ -218,7 +226,7 @@ Building and experimenting with new AI, ML and data science projects.
 </tr>
 
 </table>
----
+ ---
 
 # 📊 GitHub Statistics
 
