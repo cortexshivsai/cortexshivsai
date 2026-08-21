@@ -226,7 +226,7 @@ Building and experimenting with new AI, ML and data science projects.
 </tr>
 
 </table>
- ---
+  ---
 
 # 📊 GitHub Statistics
 
