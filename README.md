@@ -73,9 +73,9 @@
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 </p>
 
 ### 🔧 Tools
@@ -108,8 +108,8 @@
 
 # 🧠 AI Engineer Roadmap
 
-| Skill               |       Progress      |
-| :------------------ | :-----------------: |
+              | Skill               |       Progress      |
+              | :------------------ | :-----------------: |
 | 🐍 Python           | ██████████ **100%** |
 | 📚 DSA              |  ██████░░░░ **60%** |
 | 🤖 Machine Learning |  ███░░░░░░░ **30%** |
@@ -234,14 +234,6 @@ Building and experimenting with new AI, ML and data science projects.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cortexshivsai&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cortexshivsai&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
