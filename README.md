@@ -279,7 +279,7 @@ Building and experimenting with new AI, ML and data science projects.
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/shivsai1396">
+<a href="https://www.codechef.com/users/shivsai_1396">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
