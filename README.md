@@ -233,13 +233,6 @@ Building and experimenting with new AI, ML and data science projects.
 # 📊 GitHub Statistics
 
 <p align="center">
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortexshivsai&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=cortexshivsai&theme=tokyonight&hide_border=true"/>
 </p>
 
