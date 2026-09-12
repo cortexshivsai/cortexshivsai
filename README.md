@@ -95,6 +95,9 @@
 | 🐍 **Python Certification** | IBMCE | **01 Jul 2026** | ✅ |
 | 💻 **Software Foundation Course — C++** | IBMCE | **24 Dec 2025** | ✅ |
 | 🌐 **JavaScript Certification** | Certiport | **07 Oct 2025** | ✅ |
+| ☁️ **AWS Cloud Practitioner Essentials** | AWS | **10 Sep 2026** | ✅ |
+
+
 
 
 <p align="center">
