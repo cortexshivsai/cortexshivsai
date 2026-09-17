@@ -90,13 +90,12 @@
 
 | Certificate | Platform | Completed | Status |
 |:---|:---:|:---:|:---:|
+| ☁️ **AWS Cloud Practitioner Essentials** | AWS | **10 Sep 2026** | ✅ |
 | 🧠 **AI-Machine Learning Engineer** | Reliance Foundation Skilling Academy — SIDH | **20 Jul 2026** | ✅ |
 | 📊 **AI-Data Engineering Analyst** | NASSCOM | **12 Jul 2026** | ✅ |
 | 🐍 **Python Certification** | IBMCE | **01 Jul 2026** | ✅ |
 | 💻 **Software Foundation Course — C++** | IBMCE | **24 Dec 2025** | ✅ |
 | 🌐 **JavaScript Certification** | Certiport | **07 Oct 2025** | ✅ |
-| ☁️ **AWS Cloud Practitioner Essentials** | AWS | **10 Sep 2026** | ✅ |
-
 
 
 
