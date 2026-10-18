@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Python+%7C+Machine+Learning+%7C+Deep+Learning;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Turning+Ideas+Into+AI+Applications+%F0%9F%9A%80;Welcome+to+the+Cortex+%F0%9F%94%AE"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Python+%7C+Machine+Learning+%7C+Deep+Learning;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;Turning+Ideas+Into+AI+Applications+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
